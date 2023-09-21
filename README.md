@@ -1,8 +1,12 @@
 # Watermelon high score
 A simple game with a watermelon and some silly high score prizes
 
-Aim:
-Challenge myself to make a game that is equally fun for seeing and visually impaired people
+## Aim:
+1: Put a game archie wanted to play, that I made on holiday, actually live!
+2: Challenge myself to make a game that is equally fun for seeing and visually impaired people
+
+## Lives here:
+https://watermelonsugarhighscore-chrispepper1989.vercel.app/
 
 # Built With:
 ## Astro
